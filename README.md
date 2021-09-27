@@ -1,0 +1,2 @@
+# walletid
+I'm cryptographically signing my Github account with MyWalliD wallet. Github is being added to MyWalliD identity portfolio ✅ and I’ll be able to share and prove it's ownership alongside my other identities in any platform. Wallet address:0xaf5b910b743915f2fd6054fe7dfa80d1f151e4a4 Account ID signature:0x5bc08688f631938cfe0a9878140f7e819f41ccd178d28ad28679338f5ce877d061d48cb8fea328d46219e0dfd08a389ab51abeb5f513ef45a7f6f3d4712ddc9d1c
